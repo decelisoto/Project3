@@ -51,14 +51,6 @@ Open-Meteo Weather API:
   - Wind speed
   - Timezone data
 
-## Code Structure
-/weather-window
-│── index.html          # Main HTML file
-│── styles.css          # All CSS styles
-│── script.js           # Main JavaScript logic
-│── README.md           # This documentation
-│── Lofi Window Image.png # Window overlay image
-
 ## Customization
 To modify the visual effects:
 - Change Colors:
